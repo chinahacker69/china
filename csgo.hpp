@@ -1,7 +1,7 @@
 #pragma once
 #include <cstddef>
 
-// 2019-05-03 08:15:14.215751100 UTC
+// 2019-05-07 07:22:00.956760400 UTC
 
 namespace hazedumper {
 namespace netvars {
@@ -114,7 +114,7 @@ constexpr ::std::ptrdiff_t dwGetAllClasses = 0xD105DC;
 constexpr ::std::ptrdiff_t dwGlobalVars = 0x58BA00;
 constexpr ::std::ptrdiff_t dwGlowObjectManager = 0x523D718;
 constexpr ::std::ptrdiff_t dwInput = 0x51483A8;
-constexpr ::std::ptrdiff_t dwInterfaceLinkList = 0x8C2584;
+constexpr ::std::ptrdiff_t dwInterfaceLinkList = 0x8C25C4;
 constexpr ::std::ptrdiff_t dwLocalPlayer = 0xCEB95C;
 constexpr ::std::ptrdiff_t dwMouseEnable = 0xCF14A8;
 constexpr ::std::ptrdiff_t dwMouseEnablePtr = 0xCF1478;

@@ -1,5 +1,5 @@
 ---
-timestamp: 1556871314
+timestamp: 1557213720
 signatures:
   clientstate_choked_commands: 19752
   clientstate_delta_ticks: 372
@@ -29,7 +29,7 @@ signatures:
   dwGlobalVars: 5814784
   dwGlowObjectManager: 86234904
   dwInput: 85230504
-  dwInterfaceLinkList: 9184644
+  dwInterfaceLinkList: 9184708
   dwLocalPlayer: 13547868
   dwMouseEnable: 13571240
   dwMouseEnablePtr: 13571192

@@ -1,4 +1,4 @@
-' 2019-05-03 08:15:14.215751100 UTC
+' 2019-05-07 07:22:00.956760400 UTC
 
 Namespace hazedumper
     Public Shared Class netvars
@@ -111,7 +111,7 @@ Namespace hazedumper
         Public Const dwGlobalVars as Integer = &H58BA00
         Public Const dwGlowObjectManager as Integer = &H523D718
         Public Const dwInput as Integer = &H51483A8
-        Public Const dwInterfaceLinkList as Integer = &H8C2584
+        Public Const dwInterfaceLinkList as Integer = &H8C25C4
         Public Const dwLocalPlayer as Integer = &HCEB95C
         Public Const dwMouseEnable as Integer = &HCF14A8
         Public Const dwMouseEnablePtr as Integer = &HCF1478

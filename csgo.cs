@@ -1,6 +1,6 @@
 using System;
 
-// 2019-05-03 08:15:14.215751100 UTC
+// 2019-05-07 07:22:00.956760400 UTC
 
 namespace hazedumper
 {
@@ -116,7 +116,7 @@ namespace hazedumper
         public const Int32 dwGlobalVars = 0x58BA00;
         public const Int32 dwGlowObjectManager = 0x523D718;
         public const Int32 dwInput = 0x51483A8;
-        public const Int32 dwInterfaceLinkList = 0x8C2584;
+        public const Int32 dwInterfaceLinkList = 0x8C25C4;
         public const Int32 dwLocalPlayer = 0xCEB95C;
         public const Int32 dwMouseEnable = 0xCF14A8;
         public const Int32 dwMouseEnablePtr = 0xCF1478;
