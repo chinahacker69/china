@@ -1,5 +1,5 @@
 ---
-timestamp: 1561193004
+timestamp: 1563089874
 signatures:
   clientstate_choked_commands: 19752
   clientstate_delta_ticks: 372
@@ -45,6 +45,7 @@ signatures:
   dwZoomSensitivityRatioPtr: 13620232
   dwbSendPackets: 862314
   dwppDirect3DDevice9: 679984
+  force_update_spectator_glow: 3748706
   interface_engine_cvar: 256492
   is_c4_owner: 3798432
   m_bDormant: 237
