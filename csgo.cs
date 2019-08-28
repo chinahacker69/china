@@ -1,6 +1,6 @@
 using System;
 
-// 2019-08-26 12:48:48.163484 UTC
+// 2019-08-28 10:52:43.979919300 UTC
 
 namespace hazedumper
 {
@@ -110,7 +110,7 @@ namespace hazedumper
         public const Int32 dwForceJump = 0x51AA47C;
         public const Int32 dwForceLeft = 0x31384EC;
         public const Int32 dwForceRight = 0x31384E0;
-        public const Int32 dwGameDir = 0x637670;
+        public const Int32 dwGameDir = 0x6376F0;
         public const Int32 dwGetAllClasses = 0xD19BF4;
         public const Int32 dwGlobalVars = 0x590A98;
         public const Int32 dwGlowObjectManager = 0x5247210;

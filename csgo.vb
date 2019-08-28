@@ -1,4 +1,4 @@
-' 2019-08-26 12:48:48.163484 UTC
+' 2019-08-28 10:52:43.979919300 UTC
 
 Namespace hazedumper
     Public Shared Class netvars
@@ -105,7 +105,7 @@ Namespace hazedumper
         Public Const dwForceJump as Integer = &H51AA47C
         Public Const dwForceLeft as Integer = &H31384EC
         Public Const dwForceRight as Integer = &H31384E0
-        Public Const dwGameDir as Integer = &H637670
+        Public Const dwGameDir as Integer = &H6376F0
         Public Const dwGetAllClasses as Integer = &HD19BF4
         Public Const dwGlobalVars as Integer = &H590A98
         Public Const dwGlowObjectManager as Integer = &H5247210
