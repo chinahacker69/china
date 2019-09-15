@@ -1,7 +1,7 @@
 #pragma once
 #include <cstddef>
 
-// 2019-09-08 10:52:46.874088500 UTC
+// 2019-09-15 05:23:12.712467300 UTC
 
 namespace hazedumper {
 namespace netvars {
